@@ -1,4 +1,2 @@
-My first readme
-
-^C
-echo 'My first readme' > README.md
+another readme for 0x01-git
+README update from github.com
